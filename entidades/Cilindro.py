@@ -3,7 +3,7 @@ import math
 
 
 class Cilindro(Figura3D):
-    """Representa un cilindro tridimensional."""
+
 
     def __init__(self, radio, altura):
         self.radio = radio
